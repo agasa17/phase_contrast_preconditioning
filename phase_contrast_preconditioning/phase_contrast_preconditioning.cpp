@@ -1,7 +1,7 @@
 #include"include.h"
 #include"parameters.h"
 
-//test
+//testr
 
 int main(){
 
